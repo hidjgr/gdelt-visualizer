@@ -1,2 +1,1 @@
-![](screen-far.png)
-![](srceen-close.png)
+![](screen.png)
